@@ -1,0 +1,6 @@
+applicationType: function
+defaultPackage: br.com.ifood
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [app-name, aws-lambda, gradle, junit, kotlin, logback, readme, shade, yaml]
